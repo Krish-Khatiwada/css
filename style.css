@@ -7,3 +7,30 @@
     border: 2px solid black;
     margin: auto;
     }
+p {
+display: inline;
+} 
+.left {
+    margin-left: 100px;
+}
+.right {
+    margin-left: 425px;
+}
+.near {
+    margin-left: 100px;
+}
+.middle {
+    margin-left: 100px;
+}
+.far {
+    margin-left: 500px;
+}
+table {
+    margin: auto;
+}
+th {
+    padding: 15px 15px 0px 0px;
+}
+td {
+    padding: 0px 15px;
+}
