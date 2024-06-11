@@ -27,10 +27,13 @@ display: inline;
 }
 table {
     margin: auto;
+    border: 2px solid black;
 }
 th {
     padding: 15px 15px 0px 0px;
+    border: 2px solid black;
 }
 td {
     padding: 0px 15px;
+    border: 2px solid black;
 }
